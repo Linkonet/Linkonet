@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Manuel</h1>
 
-I'm a junior game dev.<br><br>Graduate in Design and Development of Videogames, in the inter American of Puerto Rico University.<br><br>My passion is the game design and the programing.<br><br>I use Unity and Godot<br><br>I love learn and help people always i can.<br><br>I'm currently learning pixel art, Godot and more of C#
+I'm a junior game dev.<br><br>Graduate in Design and Development of Videogames, in the Inter American University of Puerto Rico .<br><br>My passion is game design and programing.<br><br>I use Unity and Godot<br><br>I love to learn and help people whenever I'm able to.<br><br>I'm currently learning pixel art, Godot and more of C#
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack </b> 
